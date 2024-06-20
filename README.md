@@ -1,7 +1,7 @@
 # 💥Knowledge Conflicts for LLMs: A Survey
 
 
-This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319).
+This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). 🌟Star us for future lookups! 关注不迷路！🌟
 
 <p align="center">
 <img src="./figures/Types-of-conflicts.png" alt="Types-of-conflicts" width="400" /> <br>
@@ -18,7 +18,7 @@ Rongwu Xu<sup>1</sup>*, Zehan Qi<sup>1</sup>*, Zhijiang Guo<sup>2</sup>, Cunxian
  (* Equal Contribution)
 </p> 
 
-## Citation
+## 📝 Citation
 
 If you find our survey useful, please consider citing:
 ``` bib
@@ -30,7 +30,7 @@ If you find our survey useful, please consider citing:
 }
 ```
 
-## Recap
+## ❤️ Recap
 
 We investigate **three** types of knowledge conflicts: context-memory conflict, inter-context conflict, and intra-memory conflict.
 
@@ -44,6 +44,10 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 <img src="./figures/Taxonomy.png" alt="Taxonomy" width="680" /> <br>
  Taxonomy of knowledge conflicts: we consider three distinct types of conflicts and analysis causes, behaviors, and solutions.
 </p>
+
+## 🚀 Table of Contents
+
+TBA
 
 ## Type I: Context-memory conflict
 
@@ -87,6 +91,6 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ### III-iii: (Mitigating) Solutions
 
-##  Star History  
+## Star History  
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pillowsofwind/Knowledge-Conflicts-Survey&type=Date)](https://star-history.com/#pillowsofwind/Knowledge-Conflicts-Survey&Date)
