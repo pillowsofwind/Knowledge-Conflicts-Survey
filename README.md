@@ -1,7 +1,9 @@
 # 💥Knowledge Conflicts for LLMs: A Survey
 
 
-This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). 🌟Star us for future lookups! 关注不迷路！🌟
+This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). 
+
+🌟Star us for future lookups! 关注不迷路！🌟
 
 <p align="center">
 <img src="./figures/Types-of-conflicts.png" alt="Types-of-conflicts" width="400" /> <br>
@@ -14,7 +16,7 @@ Rongwu Xu<sup>1</sup>*, Zehan Qi<sup>1</sup>*, Zhijiang Guo<sup>2</sup>, Cunxian
 </p> 
 
 <p align="center">
-1. Tsinghua University; 2. University of Cambridge; 3. Westlake University; 4. Chinese University of Hong Kong<br>
+1. Tsinghua University; 2. University of Cambridge; 3. Westlake University; 4. The Chinese University of Hong Kong<br>
  (* Equal Contribution)
 </p> 
 
