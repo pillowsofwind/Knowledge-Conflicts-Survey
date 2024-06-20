@@ -68,7 +68,15 @@ TBA
 
 #### Misinformation Pollution
 
-1. 
+1. Attacking open-domain question answering by injecting misinformation, _Pan et al._, **AACL 2023**, [[Paper](https://aclanthology.org/2023.ijcnlp-main.35.pdf)]
+2. On the risk of misinformation pollution with large language models, _Pan et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.97.pdf)]
+3. Defending against misinformation attacks in open-domain question answering, _Weller et al. _, **EACL 2024**, [[Paper](https://aclanthology.org/2024.eacl-short.35.pdf)]
+4. The earth is flat because...: Investigating llms’ belief towards misinformation via persuasive conversation, _Xu et al._, **ACL 2024**, [[Paper](https://arxiv.org/pdf/2312.09085)]
+5. Prompt injection attack against llm-integrated applications, _Liu et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2306.05499)]
+6. Benchmarking and defending against indirect prompt injection attacks on large language models, _Yi et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2312.14197)]
+7. Adaptive chameleon or stubborn sloth: Unraveling the behavior of large language models in knowledge conflicts, _Xie et al._, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2305.13300)]
+8. Poisoning web-scale training datasets is practical, _Carlini et al._, **S&P 2024**, [[Paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a175/1V5U7f5aGPu)]
+9. Can llm-generated misinformation be detected, _Chen and Shu_, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2309.13788)]
 
 ### I-ii: (Behavior) Analysis
 
