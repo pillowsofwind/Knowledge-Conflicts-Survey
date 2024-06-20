@@ -66,6 +66,9 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ### I-ii: (Behavior) Analysis
 
+1. Entity-Based Knowledge Conflicts in Question Answering, _Longpre et al._, **EMNLP 2021**, [[Paper](https://aclanthology.org/2021.emnlp-main.565.pdf)]
+2. Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, _Chen et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.146.pdf)]
+
 ### I-iii: (Mitigating) Solutions
 
 ## Type II: Inter-context conflict
