@@ -182,6 +182,16 @@ Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/vie
 5. How pre-trained language models capture factual knowledge? a causal-inspired analysis, _Li et al._, **ACL 2022**, [[Paper](https://aclanthology.org/2022.findings-acl.136.pdf)]
 6. Impact of co-occurrence on factual knowledge of large language models, _Kang and Choi_, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.518.pdf)]
 
+#### Decoding Strategy
+
+1. Factuality enhanced language models for open-ended text generation, _Lee et al._, **NeurIPS 2022**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/df438caa36714f69277daa92d608dd63-Paper-Conference.pdf)]
+2. A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions, _Huang et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2311.05232)]
+
+#### Knowledge Editing
+
+1. Unveiling the pitfalls of knowledge editing for large language models, _Li et al._, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2310.02129)]
+2. Editing large language models: Problems, methods, and opportunities, _Yao et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.emnlp-main.632.pdf)]
+
 ### III-ii: (Behavior) Analysis
 
 ### III-iii: (Mitigating) Solutions
