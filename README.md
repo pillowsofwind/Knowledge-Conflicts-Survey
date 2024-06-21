@@ -216,6 +216,19 @@ Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/vie
 
 ### III-iii: (Mitigating) Solutions
 
+#### Improving Consistency
+
+1. Measuring and improving consistency in pretrained language models, _Elazar et al._, **TACL 2021**, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)]
+2. Benchmarking and improving generator-validator consistency of language models, _Li et al._, **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=phBS6YpTzC)]
+3. Improving language models meaning understanding and consistency by learning conceptual roles from dictionary, _Jang et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.emnlp-main.527.pdf)]
+4. Enhancing selfconsistency and performance of pre-trained language models through natural language inference, _Mitchell et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.115.pdf)]
+5. Knowing what llms do not know: A simple yet effective self-detection method, _Zhao et al._, **NAACL 2024**, [[Paper](https://aclanthology.org/2024.naacl-long.390.pdf)]
+
+#### Improving Factuality
+
+1. Decoding by contrasting layers improves factuality in large language models, _Chuang et al._, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2309.03883)]
+2. Inferencetime intervention: Eliciting truthful answers from a language model, _Li et al._, **NeurIPS 2023**, [[Paper](https://arxiv.org/pdf/2306.03341)]
+
 ## Star History  
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pillowsofwind/Knowledge-Conflicts-Survey&type=Date)](https://star-history.com/#pillowsofwind/Knowledge-Conflicts-Survey&Date)
