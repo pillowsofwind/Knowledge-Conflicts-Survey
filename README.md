@@ -106,6 +106,23 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ### I-iii: (Mitigating) Solutions
 
+#### Faithful to Context
+
+##### Fine-tuning
+
+1. Large Language Models with Controllable Working Memory, _Li et al._, **ACL 2023**, [[Paper](https://aclanthology.org/2023.findings-acl.112.pdf)]
+2. TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models, _Gekhman et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.emnlp-main.127.pdf)]
+3. Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment, _Xue et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.525.pdf)]
+
+#### Prompting
+
+1. Context-faithful Prompting for Large Language Models, _Zhou et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.968.pdf)]
+
+#### Decoding
+
+1. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding, _Shi et al._, **NAACL 2024**, [[Paper](https://aclanthology.org/2024.naacl-short.69.pdf)]
+2. Contrastive Decoding: Open-ended Text Generation as Optimization, _Li et al._, **ACL 2023**, [[Paper](https://aclanthology.org/2023.acl-long.687.pdf)]
+
 ## Type II: Inter-context conflict
 
 ### II-i: Causes
