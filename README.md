@@ -106,7 +106,7 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ### I-iii: (Mitigating) Solutions
 
-#### Faithful to Context
+#### Faithful to context
 
 ##### Fine-tuning
 
@@ -114,11 +114,11 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 2. TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models, _Gekhman et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.emnlp-main.127.pdf)]
 3. Improving Factual Consistency for Knowledge-Grounded Dialogue Systems via Knowledge Enhancement and Alignment, _Xue et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.525.pdf)]
 
-#### Prompting
+##### Prompting
 
 1. Context-faithful Prompting for Large Language Models, _Zhou et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.968.pdf)]
 
-#### Decoding
+##### Decoding
 
 1. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding, _Shi et al._, **NAACL 2024**, [[Paper](https://aclanthology.org/2024.naacl-short.69.pdf)]
 2. Contrastive Decoding: Open-ended Text Generation as Optimization, _Li et al._, **ACL 2023**, [[Paper](https://aclanthology.org/2023.acl-long.687.pdf)]
@@ -127,7 +127,33 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ### II-i: Causes
 
+#### Misinformation
+
+1. Synthetic lies: Understanding ai-generated misinformation and evaluating algorithmic and human solutions, _Zhou et al._, **CHI 2023**, [[Paper](https://dl.acm.org/doi/full/10.1145/3544548.3581318)]
+2. Comparing GPT-4 and Open-Source Language Models in Misinformation Mitigation, _Vergho et al._, **arXiv 2024**, [[Paper]()https://arxiv.org/abs/2401.06920]
+
+#### Outdated information
+
+1. A dataset for answering time-sensitive questions, _Chen et al._, **Neurips 2021**, [[Paper](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/1f0e3dad99908345f7439f8ffabdffc4-Paper-round2.pdf)]
+2. SituatedQA: Incorporating extra-linguistic contexts into QA, _Zhang et al._, **EMNLP 2021**, [[Paper](https://aclanthology.org/2021.emnlp-main.586/)]
+3. Streamingqa: A benchmark for adaptation to new knowledge over time in question answering models, _Liska et al._, **ICML 2022**. [[Paper](https://proceedings.mlr.press/v162/liska22a.html)]
+4. RealTime QA: What's the Answer Right Now?, _Kasai et al._, **Neurips 2024**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9941624ef7f867a502732b5154d30cb7-Abstract-Datasets_and_Benchmarks.html)]
+
 ### II-ii: (Behavior) Analysis
+
+#### Performance impact
+1. SituatedQA: Incorporating extra-linguistic contexts into QA, _Zhang et al._, **EMNLP 2021**, [[Paper](https://aclanthology.org/2021.emnlp-main.586/)]
+2. Synthetic Disinformation Attacks on Automated Fact Verification Systems
+Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21302)]
+3. Attacking open-domain question answering by injecting misinformation, _Pan et al._, **AACL 2023**, [[Paper](https://aclanthology.org/2023.ijcnlp-main.35.pdf)]
+4. Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, _Chen et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.146.pdf)]
+5. Tug-of-war between knowledge: Exploring and resolving knowledge conflicts in retrieval-augmented language models, _Jin et al._, **LREC-COLING 2024**, [[Paper](https://arxiv.org/abs/2402.14409)]
+
+#### Detection ability
+1. CDConv: A Benchmark for Contradiction Detection in Chinese Conversations, _Zheng et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.2/)]
+2. ContraDoc: understanding self-contradictions in documents with large language models, _Li et al._, **arXiv 2023**, [[Paper]()https://arxiv.org/abs/2311.09182]
+3. What Evidence Do Language Models Find Convincing?, _Wan et al._, **ACL 2024**, [[Paper](https://arxiv.org/abs/2402.11782)]
+4. Tug-of-war between knowledge: Exploring and resolving knowledge conflicts in retrieval-augmented language models, _Jin et al._, **LREC-COLING 2024**, [[Paper](https://arxiv.org/abs/2402.14409)]
 
 ### II-III: (Mitigating) Solutions
 
