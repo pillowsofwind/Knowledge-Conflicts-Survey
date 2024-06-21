@@ -20,6 +20,8 @@ Rongwu Xu<sup>1</sup>*, Zehan Qi<sup>1</sup>*, Zhijiang Guo<sup>2</sup>, Cunxian
  (* Equal Contribution)
 </p> 
 
+📢**We've missed your work? Contact [Rongwu](mailto:0xrwxu@gmail.com) directly!**
+
 ## 📝 Citation
 
 If you find our survey useful, please consider citing:
@@ -50,17 +52,17 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 ## 🚀 Table of Contents
 
 - [Type I: Context-memory conflict](#type-i-context-memory-conflict)
-  - [I-i: Causes](### I-i: Causes)
-  - [I-ii: (Behavior) Analysis](#I-ii: (Behavior) Analysis)
-  - [I-iii: (Mitigating) Solutions](#I-iii: (Mitigating) Solutions)
-- [Type II: Inter-context conflict](#Type II: Inter-context conflict)
-  - [II-i: Causes](#II-i: Causes)
-  - [II-ii: (Behavior) Analysis](#II-ii: (Behavior) Analysis)
-  - [II-iii: (Mitigating) Solutions](#II-iii: (Mitigating) Solutions)
-- [Type III: Intra-memory conflict](#Type III: Intra-memory conflict)
-  - [III-i: Causes](#III-i: Causes)
-  - [III-ii: (Behavior) Analysis](#III-ii: (Behavior) Analysis)
-  - [III-iii: (Mitigating) Solutions](#III-iii: (Mitigating) Solutions)
+  - [I-i: Causes](#i-i-causes)
+  - [I-ii: (Behavior) Analysis](#i-ii-behavior-analysis)
+  - [I-iii: (Mitigating) Solutions](#i-iii-mitigating-solutions)
+- [Type II: Inter-context conflict](#type-ii-inter-context-conflict)
+  - [II-i: Causes](#ii-i-causes)
+  - [II-ii: (Behavior) Analysis](#ii-ii-behavior-analysis)
+  - [II-iii: (Mitigating) Solutions](#ii-iii-mitigating-solutions)
+- [Type III: Intra-memory conflict](#type-iii-intra-memory-conflict)
+  - [III-i: Causes](#iii-i-causes)
+  - [III-ii: (Behavior) Analysis](#iii-ii-behavior-analysis)
+  - [III-iii: (Mitigating) Solutions](#iii-iii-mitigating-solutions)
 
 ## Type I: Context-memory conflict
 
