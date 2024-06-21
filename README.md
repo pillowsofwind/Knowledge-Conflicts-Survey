@@ -49,11 +49,22 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ## 🚀 Table of Contents
 
-TBA
+- [Type I: Context-memory conflict](#section1)
+  - [I-i: Causes](#section1-i)
+  - [I-ii: (Behavior) Analysis](#section1-ii)
+  - [I-iii: (Mitigating) Solutions](#section1-iii)
+- [Type II: Inter-context conflict](#section2)
+  - [II-i: Causes](#section2-i)
+  - [II-ii: (Behavior) Analysis](#section2-ii)
+  - [II-iii: (Mitigating) Solutions](#section2-iii)
+- [Type III: Intra-memory conflict](#section3)
+  - [III-i: Causes](#section3-i)
+  - [III-ii: (Behavior) Analysis](#section3-ii)
+  - [III-iii: (Mitigating) Solutions](#section3-iii)
 
-## Type I: Context-memory conflict
+## Type I: Context-memory conflict {#section1}
 
-### I-i: Causes
+### I-i: Causes {#section1-i}
 
 #### Temporal Misalignment
 
@@ -66,7 +77,7 @@ TBA
 7. Can LMs Generalize to Future Data? An Empirical Analysis on Text Summarization, _Cheang et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.emnlp-main.1007/)]
 8. RealTime QA: What's the Answer Right Now?, _Kasai et al._, **Neurips 2024**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9941624ef7f867a502732b5154d30cb7-Abstract-Datasets_and_Benchmarks.html)]
 
-#### Misinformation Pollution
+#### Misinformation Pollution 
 
 1. Attacking open-domain question answering by injecting misinformation, _Pan et al._, **AACL 2023**, [[Paper](https://aclanthology.org/2023.ijcnlp-main.35.pdf)]
 2. On the risk of misinformation pollution with large language models, _Pan et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.97.pdf)]
@@ -78,28 +89,28 @@ TBA
 8. Poisoning web-scale training datasets is practical, _Carlini et al._, **S&P 2024**, [[Paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a175/1V5U7f5aGPu)]
 9. Can llm-generated misinformation be detected, _Chen and Shu_, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2309.13788)]
 
-### I-ii: (Behavior) Analysis
+### I-ii: (Behavior) Analysis {#section1-ii}
 
 1. Entity-Based Knowledge Conflicts in Question Answering, _Longpre et al._, **EMNLP 2021**, [[Paper](https://aclanthology.org/2021.emnlp-main.565.pdf)]
 2. Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, _Chen et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.146.pdf)]
 
-### I-iii: (Mitigating) Solutions
+### I-iii: (Mitigating) Solutions {#section1-iii}
 
-## Type II: Inter-context conflict
+## Type II: Inter-context conflict {#section2}
 
-### II-i: Causes
+### II-i: Causes {#section2-i}
 
-### II-ii: (Behavior) Analysis
+### II-ii: (Behavior) Analysis {#section2-ii}
 
-### II-III: (Mitigating) Solutions
+### II-III: (Mitigating) Solutions {#section2-iii}
 
-## Type III: Intra-memory conflict
+## Type III: Intra-memory conflict {#section3}
 
-### III-i: Causes
+### III-i: Causes {#section3-i}
 
-### III-ii: (Behavior) Analysis
+### III-ii: (Behavior) Analysis {#section3-ii}
 
-### III-iii: (Mitigating) Solutions
+### III-iii: (Mitigating) Solutions {#section3-iii}
 
 ## Star History  
 
