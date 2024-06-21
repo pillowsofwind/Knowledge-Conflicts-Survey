@@ -49,22 +49,22 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ## 🚀 Table of Contents
 
-- [Type I: Context-memory conflict](#section1)
-  - [I-i: Causes](#section1-i)
-  - [I-ii: (Behavior) Analysis](#section1-ii)
-  - [I-iii: (Mitigating) Solutions](#section1-iii)
-- [Type II: Inter-context conflict](#section2)
-  - [II-i: Causes](#section2-i)
-  - [II-ii: (Behavior) Analysis](#section2-ii)
-  - [II-iii: (Mitigating) Solutions](#section2-iii)
-- [Type III: Intra-memory conflict](#section3)
-  - [III-i: Causes](#section3-i)
-  - [III-ii: (Behavior) Analysis](#section3-ii)
-  - [III-iii: (Mitigating) Solutions](#section3-iii)
+- [Type I: Context-memory conflict](#Type I: Context-memory conflict)
+  - [I-i: Causes](#I-i: Causes)
+  - [I-ii: (Behavior) Analysis](#I-ii: (Behavior) Analysis)
+  - [I-iii: (Mitigating) Solutions](#I-iii: (Mitigating) Solutions)
+- [Type II: Inter-context conflict](#Type II: Inter-context conflict)
+  - [II-i: Causes](#II-i: Causes)
+  - [II-ii: (Behavior) Analysis](#II-ii: (Behavior) Analysis)
+  - [II-iii: (Mitigating) Solutions](#II-iii: (Mitigating) Solutions)
+- [Type III: Intra-memory conflict](#Type III: Intra-memory conflict)
+  - [III-i: Causes](#III-i: Causes)
+  - [III-ii: (Behavior) Analysis](#III-ii: (Behavior) Analysis)
+  - [III-iii: (Mitigating) Solutions](#III-iii: (Mitigating) Solutions)
 
-## Type I: Context-memory conflict {#section1}
+## Type I: Context-memory conflict
 
-### I-i: Causes {#section1-i}
+### I-i: Causes
 
 #### Temporal Misalignment
 
@@ -89,28 +89,28 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 8. Poisoning web-scale training datasets is practical, _Carlini et al._, **S&P 2024**, [[Paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a175/1V5U7f5aGPu)]
 9. Can llm-generated misinformation be detected, _Chen and Shu_, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2309.13788)]
 
-### I-ii: (Behavior) Analysis {#section1-ii}
+### I-ii: (Behavior) Analysis
 
 1. Entity-Based Knowledge Conflicts in Question Answering, _Longpre et al._, **EMNLP 2021**, [[Paper](https://aclanthology.org/2021.emnlp-main.565.pdf)]
 2. Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, _Chen et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.146.pdf)]
 
-### I-iii: (Mitigating) Solutions {#section1-iii}
+### I-iii: (Mitigating) Solutions
 
-## Type II: Inter-context conflict {#section2}
+## Type II: Inter-context conflict
 
-### II-i: Causes {#section2-i}
+### II-i: Causes
 
-### II-ii: (Behavior) Analysis {#section2-ii}
+### II-ii: (Behavior) Analysis
 
-### II-III: (Mitigating) Solutions {#section2-iii}
+### II-III: (Mitigating) Solutions
 
-## Type III: Intra-memory conflict {#section3}
+## Type III: Intra-memory conflict
 
-### III-i: Causes {#section3-i}
+### III-i: Causes
 
-### III-ii: (Behavior) Analysis {#section3-ii}
+### III-ii: (Behavior) Analysis
 
-### III-iii: (Mitigating) Solutions {#section3-iii}
+### III-iii: (Mitigating) Solutions
 
 ## Star History  
 
