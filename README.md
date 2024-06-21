@@ -194,6 +194,26 @@ Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/vie
 
 ### III-ii: (Behavior) Analysis
 
+#### Self-Inconsistency
+
+1. Measuring and improving consistency in pretrained language models, _Elazar et al._, **TACL 2021**, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)]
+2. Methods for measuring, updating, and visualizing factual beliefs in language models, _Hase et al._, **EACL 2023**, [[Paper](https://aclanthology.org/2023.eacl-main.199.pdf)]
+3. Knowing what llms do not know: A simple yet effective self-detection method, _Zhao et al._, **NAACL 2024**, [[Paper](https://aclanthology.org/2024.naacl-long.390.pdf)]
+4. Statistical knowledge assessment for large language models, _Dong et al._, **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5f0a4cd23e1c6eedd3edebba674ab877-Paper-Conference.pdf)]
+5. Benchmarking and improving generator-validator consistency of language models, _Li et al._, **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=phBS6YpTzC)]
+6. How pre-trained language models capture factual knowledge? a causal-inspired analysis, _Li et al._, **ACL 2022**, [[Paper](https://aclanthology.org/2022.findings-acl.136.pdf)]
+7. Impact of co-occurrence on factual knowledge of large language models, _Kang and Choi_, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.518.pdf)]
+
+#### Latent Representation of Knowledge
+
+1. Dola: Decoding by contrasting layers improves factuality in large language models, _Chuang et al._, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2309.03883)]
+2. Inferencetime intervention: Eliciting truthful answers from a language model, _Li et al._, **NeurIPS 2023**, [[Paper](https://arxiv.org/pdf/2306.03341)]
+
+#### Cross-lingual Inconsistency
+
+1. Cross-lingual knowledge editing in large language models, _Wan et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2309.08952)]
+2. Cross-lingual consistency of factual knowledge in multilingual language models, _Qi et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.emnlp-main.658.pdf)]
+
 ### III-iii: (Mitigating) Solutions
 
 ## Star History  
