@@ -81,7 +81,7 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 1. Attacking open-domain question answering by injecting misinformation, _Pan et al._, **AACL 2023**, [[Paper](https://aclanthology.org/2023.ijcnlp-main.35.pdf)]
 2. On the risk of misinformation pollution with large language models, _Pan et al._, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.97.pdf)]
-3. Defending against misinformation attacks in open-domain question answering, _Weller et al. _, **EACL 2024**, [[Paper](https://aclanthology.org/2024.eacl-short.35.pdf)]
+3. Defending against misinformation attacks in open-domain question answering, _Weller et al._, **EACL 2024**, [[Paper](https://aclanthology.org/2024.eacl-short.35.pdf)]
 4. The earth is flat because...: Investigating llms’ belief towards misinformation via persuasive conversation, _Xu et al._, **ACL 2024**, [[Paper](https://arxiv.org/pdf/2312.09085)]
 5. Prompt injection attack against llm-integrated applications, _Liu et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2306.05499)]
 6. Benchmarking and defending against indirect prompt injection attacks on large language models, _Yi et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2312.14197)]
@@ -91,8 +91,18 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ### I-ii: (Behavior) Analysis
 
+#### ODQA
+
 1. Entity-Based Knowledge Conflicts in Question Answering, _Longpre et al._, **EMNLP 2021**, [[Paper](https://aclanthology.org/2021.emnlp-main.565.pdf)]
 2. Rich Knowledge Sources Bring Complex Knowledge Conflicts: Recalibrating Models to Reflect Conflicting Evidence, _Chen et al._, **EMNLP 2022**, [[Paper](https://aclanthology.org/2022.emnlp-main.146.pdf)]
+3. Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts, _Tan et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2401.11911)]
+
+#### General
+
+1. Adaptive chameleon or stubborn sloth: Unraveling the behavior of large language models in knowledge conflicts, _Xie et al._, **ICLR 2024**, [[Paper](https://arxiv.org/pdf/2305.13300)]
+2. RESOLVING KNOWLEDGE CONFLICTS IN LARGE LANGUAGE MODELS, _Wang et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2310.00935)]
+3. Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts, _Ying et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2309.17415)]
+4. “Merge Conflicts!” Exploring the Impacts of External Distractors to Parametric Knowledge Graphs, _Qian et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2309.08594)]
 
 ### I-iii: (Mitigating) Solutions
 
