@@ -157,9 +157,30 @@ Authors, **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/vie
 
 ### II-III: (Mitigating) Solutions
 
+#### Eliminating Conflict
+
+1. WikiContradiction: Detecting Self-Contradiction Articles on Wikipedia, _Hsu et al._, **IEEE Big Data 2021**, [[Paper](https://www.computer.org/csdl/proceedings-article/big-data/2021/09671319/1A8hbIXOCPK)]
+2. Topological analysis of contradictions in text, _Wu et al._, **SIGIR 2022**,  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531881)]
+3. FACTOOL: Factuality Detection in Generative AI-A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios, _Chern et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2307.13528)]
+4. Detecting Misinformation with LLM-Predicted Credibility Signals and Weak Supervision, _Leite et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2309.07601)]
+
+#### Improving Robustness
+
+1. Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise, _Hong et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2305.01579)]
+2. Defending Against Disinformation Attacks in Open-Domain Question Answering, _Weller et al._, **EACL 2024**, [[Paper](https://aclanthology.org/2024.eacl-short.35.pdf)]
+
 ## Type III: Intra-memory conflict
 
 ### III-i: Causes
+
+#### Bias in Training Corpora
+
+1. On the dangers of stochastic parrots: Can language models be too big, _Bender et al._, **FACCT 2021**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
+2. Ethical and social risks of harm from language models, _Weidinger et al._, **arXiv 2021**, [[Paper](https://arxiv.org/pdf/2112.04359)]
+3. Measuring Causal Effects of Data Statistics on Language Model's 'Factual' Predictions, _Elazar et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2207.14251)]
+4. Studying large language model generalization with influence functions, _Grosse et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2308.03296)]
+5. How pre-trained language models capture factual knowledge? a causal-inspired analysis, _Li et al._, **ACL 2022**, [[Paper](https://aclanthology.org/2022.findings-acl.136.pdf)]
+6. Impact of co-occurrence on factual knowledge of large language models, _Kang and Choi_, **EMNLP 2023**, [[Paper](https://aclanthology.org/2023.findings-emnlp.518.pdf)]
 
 ### III-ii: (Behavior) Analysis
 
