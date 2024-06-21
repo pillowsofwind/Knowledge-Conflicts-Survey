@@ -3,7 +3,7 @@
 
 This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). 
 
-🌟Star us for future lookups! 关注不迷路！🌟
+🌟Star us for future lookups!🌟
 
 <p align="center">
 <img src="./figures/Types-of-conflicts.png" alt="Types-of-conflicts" width="400" /> <br>
@@ -49,8 +49,8 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 ## 🚀 Table of Contents
 
-- [Type I: Context-memory conflict](#Type I: Context-memory conflict)
-  - [I-i: Causes](#I-i: Causes)
+- [Type I: Context-memory conflict](#type-i-context-memory-conflict)
+  - [I-i: Causes](### I-i: Causes)
   - [I-ii: (Behavior) Analysis](#I-ii: (Behavior) Analysis)
   - [I-iii: (Mitigating) Solutions](#I-iii: (Mitigating) Solutions)
 - [Type II: Inter-context conflict](#Type II: Inter-context conflict)
