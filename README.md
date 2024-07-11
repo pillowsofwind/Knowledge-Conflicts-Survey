@@ -105,6 +105,7 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 2. RESOLVING KNOWLEDGE CONFLICTS IN LARGE LANGUAGE MODELS, _Wang et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2310.00935)]
 3. Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts, _Ying et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2309.17415)]
 4. “Merge Conflicts!” Exploring the Impacts of External Distractors to Parametric Knowledge Graphs, _Qian et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2309.08594)]
+5. Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2404.16032)]
 
 ### I-iii: (Mitigating) Solutions
 
