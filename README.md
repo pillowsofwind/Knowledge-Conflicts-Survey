@@ -1,7 +1,7 @@
 # 💥Knowledge Conflicts for LLMs: A Survey
 
 
-This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). 
+This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). [中文介绍@机器之心](https://mp.weixin.qq.com/s/y9-DwgNb3Yftgf_Ulf6yDQ)
 
 🌟Star us for future lookups!🌟
 
