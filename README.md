@@ -1,7 +1,7 @@
 # 💥Knowledge Conflicts for LLMs: A Survey
 
 
-This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). [中文介绍@机器之心](https://mp.weixin.qq.com/s/y9-DwgNb3Yftgf_Ulf6yDQ)
+This is the repository for the survey paper: [Knowledge Conflicts for LLMs: A Survey](https://arxiv.org/abs/2403.08319). ➡️ [[中文介绍@机器之心]](https://mp.weixin.qq.com/s/y9-DwgNb3Yftgf_Ulf6yDQ)
 
 🌟Star us for future lookups!🌟
 
@@ -106,6 +106,9 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 3. Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts, _Ying et al._, **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2309.17415)]
 4. “Merge Conflicts!” Exploring the Impacts of External Distractors to Parametric Knowledge Graphs, _Qian et al._, **arXiv 2023**, [[Paper](https://arxiv.org/pdf/2309.08594)]
 5. Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2404.16032)]
+6. Characterizing mechanisms for factual recall in language models, **EMNLP 2023**, [[Paper](https://arxiv.org/abs/2310.15910)]
+7. Context versus Prior Knowledge in Language Models, **ACL 2024**, [[Paper](https://arxiv.org/pdf/2404.04633)]
+8. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
 
 ### I-iii: (Mitigating) Solutions
 
@@ -125,6 +128,12 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 1. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding, _Shi et al._, **NAACL 2024**, [[Paper](https://aclanthology.org/2024.naacl-short.69.pdf)]
 2. Contrastive Decoding: Open-ended Text Generation as Optimization, _Li et al._, **ACL 2023**, [[Paper](https://aclanthology.org/2023.acl-long.687.pdf)]
+3. Tug-of-war between knowledge: Exploring and resolving knowledge conflicts in retrieval-augmented language models, **COLING 2024**, [[Paper](https://arxiv.org/abs/2402.14409)]
+
+##### Inference-time intervention (e.g., tuning heads)
+
+1. Characterizing mechanisms for factual recall in language models, **EMNLP 2023**, [[Paper](https://arxiv.org/abs/2310.15910)]
+2. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
 
 ## Type II: Inter-context conflict
 
