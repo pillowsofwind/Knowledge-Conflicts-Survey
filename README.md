@@ -138,6 +138,8 @@ This survey reviews the literature on the **causes, behaviors, and possible solu
 
 1. Characterizing mechanisms for factual recall in language models, **EMNLP 2023**, [[Paper](https://arxiv.org/abs/2310.15910)]
 2. Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models, **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.18154)]
+3. ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation, _Huang et al._, **NeurIPS 2025**, [[Paper](https://arxiv.org/abs/2502.15543)]
+4. SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation, _Li et al._, **arXiv 2026**, [[Paper](https://arxiv.org/abs/2606.27786)]
 
 ## Type II: Inter-context conflict
 
